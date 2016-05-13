@@ -17,6 +17,7 @@
   ],
   "license": "Apache License 2.0",
   "devDependencies": {
+    "coffee-script": "1.10.0",
     "del": "^2.0.0",
     "globby": "^3.0.1",
     "gulp": "git://github.com/gulpjs/gulp.git#bbe3c56138a9ede627879d7e47daffd0a6d9b6db",
@@ -39,8 +40,5 @@
     "through2": "^0.6.3",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
-  },
-  "dependencies": {
-    "coffee-script": "1.10.0"
   }
 }
