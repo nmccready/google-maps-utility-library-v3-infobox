@@ -1,6 +1,6 @@
 {
   "name": "google-maps-utility-library-v3-infobox",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "description": "Fork of google code's google-maps-utility-library-v3-infobox",
   "main": "./dist/infobox.js",
   "homepage": "https://github.com/nmccready/google-maps-utility-library-v3-infobox",
@@ -9,7 +9,9 @@
     "url": "git://github.com/nmccready/google-maps-utility-library-v3-infobox.git"
   },
   "author": "Gary Little (inspired by proof-of-concept code from Pamela Fox of Google)",
-  "contributors": ["Nicholas McCready"],
+  "contributors": [
+    "Nicholas McCready"
+  ],
   "license": "Apache License 2.0",
   "ignore": [
     ".*",

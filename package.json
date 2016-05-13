@@ -1,6 +1,6 @@
 {
   "name": "google-maps-utility-library-v3-infobox",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "description": "Fork of google code's google-maps-utility-library-v3-infobox",
   "main": "./dist/infobox.js",
   "scripts": {

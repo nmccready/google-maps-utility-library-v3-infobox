@@ -1,10 +1,10 @@
 /**
  *  google-maps-utility-library-v3-infobox
  *
- * @version: 1.1.13
+ * @version: 1.1.14
  * @author: Gary Little (inspired by proof-of-concept code from Pamela Fox of Google)
  * @contributors: Nicholas McCready
- * @date: Fri May 13 2016 14:45:23 GMT-0400 (EDT)
+ * @date: Fri May 13 2016 16:35:27 GMT-0400 (EDT)
  * @license: Apache License 2.0
  */
 /**
